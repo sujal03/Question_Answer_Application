@@ -1,0 +1,5 @@
+langchain
+langchain-cohere
+cohere
+Streamlit
+python-dotenv
